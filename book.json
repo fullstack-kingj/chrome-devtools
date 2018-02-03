@@ -20,7 +20,10 @@
 		"tbfed-pagefooter",
 		"expandable-chapters-small",
 		"donate",
-		"github-issue-feedback"
+		"github-issue-feedback",
+		"expandable-chapters-small",
+		"favicon",
+		"3-ba"
 	],
 	"pluginsConfig": {
 	    "github": {
@@ -73,6 +76,14 @@
 		},
 		"github-issue-feedback": {
             "repo": "jyl/chrome-devtools"
+		},
+		"expandable-chapters-small": {},
+		"favicon": {
+            "shortcut": "images/favicon.ico",
+            "bookmark": "images/favicon.ico"
+		},
+		"3-ba": {
+            "token": "23a689e990c2c23684d753e695797e27"
         }
 	}
 }
