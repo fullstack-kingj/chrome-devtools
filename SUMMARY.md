@@ -1,6 +1,6 @@
 # Summary
 
-* [概述](overview.md)
+* [概述](README.md)
 * [调试 Progressive Web Apps](progressive-web-apps.md)
 * [了解安全问题](security.md)
 * [从任何页面运行代码段](snippets.md)
