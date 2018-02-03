@@ -77,7 +77,6 @@
 		"github-issue-feedback": {
             "repo": "jyl/chrome-devtools"
 		},
-		"expandable-chapters-small": {},
 		"favicon": {
             "shortcut": "images/favicon.ico",
             "bookmark": "images/favicon.ico"
