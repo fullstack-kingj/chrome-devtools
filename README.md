@@ -101,3 +101,5 @@ Chrome 开发者工具是一套内置于Google Chrome中的Web开发和调试工
 - [安全]()
 
 ![](images/security.png)
+
+> 本文翻译自: [https://developers.google.com/web/tools/chrome-devtools/](https://developers.google.com/web/tools/chrome-devtools/)

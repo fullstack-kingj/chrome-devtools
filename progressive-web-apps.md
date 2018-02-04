@@ -104,3 +104,5 @@ Cache Storage 窗格提供了一个已使用（服务工作线程）[Cache API](
 
 - [检查页面资源](https://developers.google.com/web/tools/chrome-devtools/iterate/manage-data/page-resources)
 - [检查和管理本地存储与缓存](https://developers.google.com/web/tools/chrome-devtools/iterate/manage-data/local-storage)
+
+> 本文翻译自: [https://developers.google.com/web/tools/chrome-devtools/progressive-web-apps](https://developers.google.com/web/tools/chrome-devtools/progressive-web-apps)
